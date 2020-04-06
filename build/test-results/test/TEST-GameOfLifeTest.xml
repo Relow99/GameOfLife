@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="GameOfLifeTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2020-04-06T14:24:26" hostname="LAPTOP-5M0O1IT3" time="0.008">
+<testsuite name="GameOfLifeTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2020-04-06T19:59:15" hostname="LAPTOP-5M0O1IT3" time="0.054">
   <properties/>
-  <testcase name="nextGeneration()" classname="GameOfLifeTest" time="0.008">
+  <testcase name="nextGeneration()" classname="GameOfLifeTest" time="0.054">
     <failure message="org.junit.jupiter.api.extension.ParameterResolutionException: No ParameterResolver registered for parameter [int[][] arg0] in constructor [GameOfLifeTest(int[][])]." type="org.junit.jupiter.api.extension.ParameterResolutionException">org.junit.jupiter.api.extension.ParameterResolutionException: No ParameterResolver registered for parameter [int[][] arg0] in constructor [GameOfLifeTest(int[][])].
 	at org.junit.jupiter.engine.execution.ExecutableInvoker.resolveParameter(ExecutableInvoker.java:191)
 	at org.junit.jupiter.engine.execution.ExecutableInvoker.resolveParameters(ExecutableInvoker.java:174)

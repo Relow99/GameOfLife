@@ -23,8 +23,8 @@ public class MainGame {
             }
             System.out.println();
 
-            System.out.println();
-            GameOfLife.nextGeneration(grid,B,C);
         }
+        System.out.println();
+        GameOfLife.nextGeneration(grid,B,C);
     }
 }
